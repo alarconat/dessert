@@ -15,14 +15,14 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="Unscramble" />
+              <option name="name" value="AppTareas" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="Unscramble" />
+                <option name="name" value="AppTareas" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
@@ -48,6 +48,7 @@
                           <list>
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/8.6.0/f7baf488b0ea3e51a6f1a8fb96af6d9776546d0d/gradle-8.6.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin/1.9.0/c195bedb52549128f5fcabf1779bb0b6dbe534a1/kotlin-gradle-plugin-1.9.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.gms/google-services/4.4.2/15d38d115557d7f54a877ea44b16b3dbb9ba54cf/google-services-4.4.2-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-settings-api/8.6.0/dc1ef473d335c9bc5ba3e29a7fd51e6d8bfcb010/gradle-settings-api-8.6.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-model/31.6.0/79adf8f4edc5636d1890a9d7bc5aa5e1f42824d9/lint-model-31.6.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/8.6.0/510a6e8f327cd157c44240cfa7f23cefcf04edc3/builder-8.6.0-sources.jar" />
@@ -115,6 +116,7 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.9.0/7886448bd2416509eb922dfe79f608884e1f1ec/kotlin-compiler-embeddable-1.9.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-compiler-embeddable/1.9.0/128bc72bb20b6bf76113a0d8d874e5acbdfb3dff/kotlin-scripting-compiler-embeddable-1.9.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-compiler-impl-embeddable/1.9.0/18df7969c4cfea1fbd842ec5bc212cfa893be144/kotlin-scripting-compiler-impl-embeddable-1.9.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/32.0.1-jre/f491b792f07e0a5dc5a6695ea2f3632263b317e4/guava-32.0.1-jre-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/common/31.6.0/4ad592c3b3da5fdbf956ee17c30ddc3f2528cbd8/common-31.6.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/manifest-merger/31.6.0/af05564408447fbff04b12c327f87a6ca8a731ef/manifest-merger-31.6.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/tracker/31.6.0/5221b13a36724708c314546ec801500cd371f2df/tracker-31.6.0-sources.jar" />
@@ -128,7 +130,6 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/apksig/8.6.0/f1bf8773179cc3b41dc2e3bc3f34129115b8649b/apksig-8.6.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.5.0/1b2a0925ff06220c0261b6fd468183cd9e9a9a47/javawriter-2.5.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.9.22/dc318d79ef91704c6363b4e3189f580e77286436/kotlin-reflect-1.9.22-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/32.0.1-jre/f491b792f07e0a5dc5a6695ea2f3632263b317e4/guava-32.0.1-jre-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.intellij.deps/trove4j/1.0.20200330/5fc2da70caaebed24734161c6c33648a15396917/trove4j-1.0.20200330-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/31.6.0/d2ecc32c89851d61ee15e59c63f7f2f513a2b862/dvlib-31.6.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.21/b3e0a269baa0d05b02f9b4447be463d25da8c097/commons-compress-1.21-sources.jar" />
@@ -191,6 +192,7 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver/4.1.93.Final/d1ed602ed0ec67ef44a33e69f9798933b8f3af30/netty-resolver-4.1.93.Final-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/8.6.0/dd6d5f2b123276f8153fc09eed3f41f298a5bd6b/gradle-8.6.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin/1.9.0/8cfc2ba810d67ffb9a931d3785163acb5ff859fd/kotlin-gradle-plugin-1.9.0-gradle81.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.gms/google-services/4.4.2/4d61599d56846c0cf3c6b466260a3d08b9032d55/google-services-4.4.2.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-settings-api/8.6.0/d100186833a4768f3d800d14d59dc13b2fc1db8f/gradle-settings-api-8.6.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-model/31.6.0/cbd604d021ea85b496427591e08a2c7d35cb79ea/lint-model-31.6.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/8.6.0/58e80f76b16fb58f953653b9dcd3baf4dd524c80/builder-8.6.0.jar" />
@@ -261,6 +263,8 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.9.0/2c8c3a7402becca891f12739b3e9fd2dc2adbd7a/kotlin-compiler-embeddable-1.9.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-compiler-embeddable/1.9.0/1708703c0683b8d2a0a76048544480b94d3eb458/kotlin-scripting-compiler-embeddable-1.9.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-compiler-impl-embeddable/1.9.0/c825693be78dfcbc351a53856d75f4d11bb0e274/kotlin-scripting-compiler-impl-embeddable-1.9.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/strict-version-matcher-plugin/1.2.4/37f8b2ab56ecab699697602acdd598cb6d809b38/strict-version-matcher-plugin-1.2.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/32.0.1-jre/6e5d51a72d142f2d40a57dfb897188b36a95b489/guava-32.0.1-jre.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/common/31.6.0/efe9e7cb9db0c21b65fe8816a98533da0957b33b/common-31.6.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/manifest-merger/31.6.0/b7204a85737fc4ea695fc9a66261c69e72a06ed8/manifest-merger-31.6.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/tracker/31.6.0/6e10f330711874dceeb3935763d82d3792a7e13e/tracker-31.6.0.jar" />
@@ -274,7 +278,6 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/apksig/8.6.0/f005788487574c7d6ba23dea63bf8cb3a4f164a6/apksig-8.6.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.5.0/81241ff7078ef14f42ea2a8995fa09c096256e6b/javawriter-2.5.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.9.22/761ab33cf85f03a3a24595e1b92639d82e7a9564/kotlin-reflect-1.9.22.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/32.0.1-jre/6e5d51a72d142f2d40a57dfb897188b36a95b489/guava-32.0.1-jre.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.intellij.deps/trove4j/1.0.20200330/3afb14d5f9ceb459d724e907a21145e8ff394f02/trove4j-1.0.20200330.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/31.6.0/8c475e80a82e3c293d792ea9a22847c43904c2fc/dvlib-31.6.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.21/4ec95b60d4e86b5c95a0e919cb172a0af98011ef/commons-compress-1.21.jar" />
@@ -336,6 +339,8 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.1.93.Final/1cfc49b91b0d3ddb30c9f7d8467e5d02ae8babdf/netty-common-4.1.93.Final.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-socks/4.1.93.Final/81ca78969afc60073e47c3b7b361cc3839392c73/netty-codec-socks-4.1.93.Final.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver/4.1.93.Final/3860e99075f9e078364ed38f6d6fc8825b7a168a/netty-resolver-4.1.93.Final.jar" />
+                            <option value="C:\UAA-PAPDM-Grupo-N4-TP-FINAL\.gradle\8.7\dependencies-accessors\792f9acf24c0f0171b7766fd4db5cb1eb48e6d49\sources" />
+                            <option value="C:\UAA-PAPDM-Grupo-N4-TP-FINAL\.gradle\8.7\dependencies-accessors\792f9acf24c0f0171b7766fd4db5cb1eb48e6d49\classes" />
                           </list>
                         </option>
                         <option name="path" value="$PROJECT_DIR$" />
@@ -349,6 +354,7 @@
                           <list>
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/8.6.0/f7baf488b0ea3e51a6f1a8fb96af6d9776546d0d/gradle-8.6.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin/1.9.0/c195bedb52549128f5fcabf1779bb0b6dbe534a1/kotlin-gradle-plugin-1.9.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.gms/google-services/4.4.2/15d38d115557d7f54a877ea44b16b3dbb9ba54cf/google-services-4.4.2-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-settings-api/8.6.0/dc1ef473d335c9bc5ba3e29a7fd51e6d8bfcb010/gradle-settings-api-8.6.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-model/31.6.0/79adf8f4edc5636d1890a9d7bc5aa5e1f42824d9/lint-model-31.6.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/8.6.0/510a6e8f327cd157c44240cfa7f23cefcf04edc3/builder-8.6.0-sources.jar" />
@@ -416,6 +422,7 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.9.0/7886448bd2416509eb922dfe79f608884e1f1ec/kotlin-compiler-embeddable-1.9.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-compiler-embeddable/1.9.0/128bc72bb20b6bf76113a0d8d874e5acbdfb3dff/kotlin-scripting-compiler-embeddable-1.9.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-compiler-impl-embeddable/1.9.0/18df7969c4cfea1fbd842ec5bc212cfa893be144/kotlin-scripting-compiler-impl-embeddable-1.9.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/32.0.1-jre/f491b792f07e0a5dc5a6695ea2f3632263b317e4/guava-32.0.1-jre-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/common/31.6.0/4ad592c3b3da5fdbf956ee17c30ddc3f2528cbd8/common-31.6.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/manifest-merger/31.6.0/af05564408447fbff04b12c327f87a6ca8a731ef/manifest-merger-31.6.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/tracker/31.6.0/5221b13a36724708c314546ec801500cd371f2df/tracker-31.6.0-sources.jar" />
@@ -429,7 +436,6 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/apksig/8.6.0/f1bf8773179cc3b41dc2e3bc3f34129115b8649b/apksig-8.6.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.5.0/1b2a0925ff06220c0261b6fd468183cd9e9a9a47/javawriter-2.5.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.9.22/dc318d79ef91704c6363b4e3189f580e77286436/kotlin-reflect-1.9.22-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/32.0.1-jre/f491b792f07e0a5dc5a6695ea2f3632263b317e4/guava-32.0.1-jre-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.intellij.deps/trove4j/1.0.20200330/5fc2da70caaebed24734161c6c33648a15396917/trove4j-1.0.20200330-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/31.6.0/d2ecc32c89851d61ee15e59c63f7f2f513a2b862/dvlib-31.6.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.21/b3e0a269baa0d05b02f9b4447be463d25da8c097/commons-compress-1.21-sources.jar" />
@@ -492,6 +498,7 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver/4.1.93.Final/d1ed602ed0ec67ef44a33e69f9798933b8f3af30/netty-resolver-4.1.93.Final-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/8.6.0/dd6d5f2b123276f8153fc09eed3f41f298a5bd6b/gradle-8.6.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin/1.9.0/8cfc2ba810d67ffb9a931d3785163acb5ff859fd/kotlin-gradle-plugin-1.9.0-gradle81.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.gms/google-services/4.4.2/4d61599d56846c0cf3c6b466260a3d08b9032d55/google-services-4.4.2.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-settings-api/8.6.0/d100186833a4768f3d800d14d59dc13b2fc1db8f/gradle-settings-api-8.6.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-model/31.6.0/cbd604d021ea85b496427591e08a2c7d35cb79ea/lint-model-31.6.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/8.6.0/58e80f76b16fb58f953653b9dcd3baf4dd524c80/builder-8.6.0.jar" />
@@ -562,6 +569,8 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.9.0/2c8c3a7402becca891f12739b3e9fd2dc2adbd7a/kotlin-compiler-embeddable-1.9.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-compiler-embeddable/1.9.0/1708703c0683b8d2a0a76048544480b94d3eb458/kotlin-scripting-compiler-embeddable-1.9.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-compiler-impl-embeddable/1.9.0/c825693be78dfcbc351a53856d75f4d11bb0e274/kotlin-scripting-compiler-impl-embeddable-1.9.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/strict-version-matcher-plugin/1.2.4/37f8b2ab56ecab699697602acdd598cb6d809b38/strict-version-matcher-plugin-1.2.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/32.0.1-jre/6e5d51a72d142f2d40a57dfb897188b36a95b489/guava-32.0.1-jre.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/common/31.6.0/efe9e7cb9db0c21b65fe8816a98533da0957b33b/common-31.6.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/manifest-merger/31.6.0/b7204a85737fc4ea695fc9a66261c69e72a06ed8/manifest-merger-31.6.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/tracker/31.6.0/6e10f330711874dceeb3935763d82d3792a7e13e/tracker-31.6.0.jar" />
@@ -575,7 +584,6 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/apksig/8.6.0/f005788487574c7d6ba23dea63bf8cb3a4f164a6/apksig-8.6.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.5.0/81241ff7078ef14f42ea2a8995fa09c096256e6b/javawriter-2.5.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.9.22/761ab33cf85f03a3a24595e1b92639d82e7a9564/kotlin-reflect-1.9.22.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/32.0.1-jre/6e5d51a72d142f2d40a57dfb897188b36a95b489/guava-32.0.1-jre.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.intellij.deps/trove4j/1.0.20200330/3afb14d5f9ceb459d724e907a21145e8ff394f02/trove4j-1.0.20200330.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/31.6.0/8c475e80a82e3c293d792ea9a22847c43904c2fc/dvlib-31.6.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.21/4ec95b60d4e86b5c95a0e919cb172a0af98011ef/commons-compress-1.21.jar" />
@@ -637,6 +645,8 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.1.93.Final/1cfc49b91b0d3ddb30c9f7d8467e5d02ae8babdf/netty-common-4.1.93.Final.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-socks/4.1.93.Final/81ca78969afc60073e47c3b7b361cc3839392c73/netty-codec-socks-4.1.93.Final.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver/4.1.93.Final/3860e99075f9e078364ed38f6d6fc8825b7a168a/netty-resolver-4.1.93.Final.jar" />
+                            <option value="C:\UAA-PAPDM-Grupo-N4-TP-FINAL\.gradle\8.7\dependencies-accessors\792f9acf24c0f0171b7766fd4db5cb1eb48e6d49\sources" />
+                            <option value="C:\UAA-PAPDM-Grupo-N4-TP-FINAL\.gradle\8.7\dependencies-accessors\792f9acf24c0f0171b7766fd4db5cb1eb48e6d49\classes" />
                           </list>
                         </option>
                         <option name="path" value="$PROJECT_DIR$/app" />
@@ -645,7 +655,7 @@
                   </entry>
                 </map>
               </option>
-              <option name="name" value="Unscramble" />
+              <option name="name" value="AppTareas" />
               <option name="projectBuildClasspath">
                 <list>
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.7-bin/bhs2wmbdwecv87pi65oeuq5iu/gradle-8.7/lib/ant-1.10.13.jar" />
@@ -797,244 +807,309 @@
       </map>
     </option>
   </component>
+  <component name="KotlinCompilationErrorFileTimeStamps"><![CDATA[{
+  "timestamps": {
+    "f4f80e99ebaf1dc83f3b807fbff3719f-UNRESOLVED_REFERENCE": 1733950999649,
+    "868dc521f6c7fbc514cce060fba0cf7d-UNRESOLVED_REFERENCE": 1733950426508,
+    "c7cd2c6507bfbc039629b72a2ac45d63-NO_VALUE_FOR_PARAMETER": 1733947480738,
+    "f4f80e99ebaf1dc83f3b807fbff3719f-FUNCTION_DECLARATION_WITH_NO_NAME": 1733948205316,
+    "54f9d067ce8dd9f0d111896489f08c86-NO_VALUE_FOR_PARAMETER": 1733950682737,
+    "f4f80e99ebaf1dc83f3b807fbff3719f-COMPOSABLE_EXPECTED": 1733948205316,
+    "c7cd2c6507bfbc039629b72a2ac45d63-UNRESOLVED_REFERENCE_WRONG_RECEIVER": 1733950401313,
+    "54f9d067ce8dd9f0d111896489f08c86-UNRESOLVED_REFERENCE": 1733950682737,
+    "f4f80e99ebaf1dc83f3b807fbff3719f-OPT_IN_USAGE_ERROR": 1733950999649,
+    "f4f80e99ebaf1dc83f3b807fbff3719f-OVERLOAD_RESOLUTION_AMBIGUITY": 1733947861109,
+    "c7cd2c6507bfbc039629b72a2ac45d63-ASSIGNMENT_IN_EXPRESSION_CONTEXT": 1733949972920,
+    "f4f80e99ebaf1dc83f3b807fbff3719f-TYPE_MISMATCH": 1733950999649,
+    "f4f80e99ebaf1dc83f3b807fbff3719f-FUNCTION_CALL_EXPECTED": 1733948131666,
+    "54f9d067ce8dd9f0d111896489f08c86-NAMED_PARAMETER_NOT_FOUND": 1733950682737,
+    "f4f80e99ebaf1dc83f3b807fbff3719f-COMPOSABLE_INVOCATION": 1733950999649,
+    "f4f80e99ebaf1dc83f3b807fbff3719f-REPEATED_ANNOTATION": 1733948450822,
+    "c7cd2c6507bfbc039629b72a2ac45d63-FUNCTION_EXPECTED": 1733949996594,
+    "f4f80e99ebaf1dc83f3b807fbff3719f-MIXING_NAMED_AND_POSITIONED_ARGUMENTS": 1733950999649,
+    "c7cd2c6507bfbc039629b72a2ac45d63-CANNOT_INFER_PARAMETER_TYPE": 1733948569233,
+    "f4f80e99ebaf1dc83f3b807fbff3719f-CONFLICTING_OVERLOADS": 1733947861109,
+    "c7cd2c6507bfbc039629b72a2ac45d63-NAMED_PARAMETER_NOT_FOUND": 1733948569233,
+    "f4f80e99ebaf1dc83f3b807fbff3719f-CANNOT_INFER_PARAMETER_TYPE": 1733950999649,
+    "f4f80e99ebaf1dc83f3b807fbff3719f-NONE_APPLICABLE": 1733948164797,
+    "f4f80e99ebaf1dc83f3b807fbff3719f-NAMED_PARAMETER_NOT_FOUND": 1733948002296,
+    "f4f80e99ebaf1dc83f3b807fbff3719f-ANONYMOUS_FUNCTION_WITH_NAME": 1733948164797
+  }
+}]]></component>
+  <component name="LibraryUsageStatistics">
+    <statistics>
+      <entry value="3">
+        <LibraryUsage>
+          <option name="fileTypeName" value="Kotlin" />
+          <option name="name" value="kotlinx-coroutines" />
+          <option name="version" value="1.7.3" />
+        </LibraryUsage>
+      </entry>
+    </statistics>
+  </component>
   <component name="ProcessedFilesStorage">
     <timestamps>
-      <entry key="fc6b67c03fa59474e6c092248a1fb15c" value="1732537109508" />
+      <entry key="09f22d0c907534d73db68048664b676a" value="1733936961691" />
+      <entry key="54f9d067ce8dd9f0d111896489f08c86" value="1733950683316" />
+      <entry key="7816fb258d9791a3d91680f7652b4d60" value="1733937286225" />
+      <entry key="868dc521f6c7fbc514cce060fba0cf7d" value="1733947631452" />
+      <entry key="8ce22bcfd1083b0d6cf411fef85bb1dc" value="1733948719162" />
+      <entry key="c7cd2c6507bfbc039629b72a2ac45d63" value="1733946987635" />
+      <entry key="e0d7cfada4010067bb51ae2d1d023735" value="1733946846481" />
+      <entry key="f4f80e99ebaf1dc83f3b807fbff3719f" value="1733938221813" />
     </timestamps>
   </component>
   <component name="VcsLogIndexCollector">
-    <option name="indexTime" value="1161" />
+    <option name="indexTime" value="2927" />
     <option name="indexTimeByRoot">
       <map>
-        <entry key="$PROJECT_DIR$/../" value="3213" />
-        <entry key="$PROJECT_DIR$" value="661" />
+        <entry key="$PROJECT_DIR$/../" value="2927" />
       </map>
     </option>
   </component>
   <component name="sourceFolderManager">
     <sourceFolders>
       <SourceFolderModelState>
-        <option name="moduleName" value="Unscramble.app.main" />
-        <option name="type" value="SOURCE" />
-        <option name="url" value="file://$PROJECT_DIR$/app/src/main/kotlin" />
-      </SourceFolderModelState>
-      <SourceFolderModelState>
-        <option name="moduleName" value="Unscramble.app.main" />
-        <option name="type" value="SOURCE" />
-        <option name="url" value="file://$PROJECT_DIR$/app/src/main/shaders" />
-      </SourceFolderModelState>
-      <SourceFolderModelState>
-        <option name="moduleName" value="Unscramble.app.main" />
-        <option name="type" value="RESOURCE" />
-        <option name="url" value="file://$PROJECT_DIR$/app/src/main/assets" />
-      </SourceFolderModelState>
-      <SourceFolderModelState>
-        <option name="moduleName" value="Unscramble.app.main" />
-        <option name="type" value="RESOURCE" />
-        <option name="url" value="file://$PROJECT_DIR$/app/src/main/baselineProfiles" />
-      </SourceFolderModelState>
-      <SourceFolderModelState>
-        <option name="moduleName" value="Unscramble.app.main" />
-        <option name="type" value="RESOURCE" />
-        <option name="url" value="file://$PROJECT_DIR$/app/src/main/resources" />
-      </SourceFolderModelState>
-      <SourceFolderModelState>
-        <option name="moduleName" value="Unscramble.app.main" />
+        <option name="moduleName" value="AppTareas.app.main" />
         <option name="type" value="SOURCE" />
         <option name="url" value="file://$PROJECT_DIR$/app/src/debug/java" />
       </SourceFolderModelState>
       <SourceFolderModelState>
-        <option name="moduleName" value="Unscramble.app.main" />
+        <option name="moduleName" value="AppTareas.app.main" />
         <option name="type" value="SOURCE" />
         <option name="url" value="file://$PROJECT_DIR$/app/src/debug/kotlin" />
       </SourceFolderModelState>
       <SourceFolderModelState>
-        <option name="moduleName" value="Unscramble.app.main" />
+        <option name="moduleName" value="AppTareas.app.main" />
         <option name="type" value="SOURCE" />
         <option name="url" value="file://$PROJECT_DIR$/app/src/debug/shaders" />
       </SourceFolderModelState>
       <SourceFolderModelState>
-        <option name="moduleName" value="Unscramble.app.main" />
+        <option name="moduleName" value="AppTareas.app.main" />
         <option name="type" value="RESOURCE" />
         <option name="url" value="file://$PROJECT_DIR$/app/src/debug/assets" />
       </SourceFolderModelState>
       <SourceFolderModelState>
-        <option name="moduleName" value="Unscramble.app.main" />
+        <option name="moduleName" value="AppTareas.app.main" />
         <option name="type" value="RESOURCE" />
         <option name="url" value="file://$PROJECT_DIR$/app/src/debug/baselineProfiles" />
       </SourceFolderModelState>
       <SourceFolderModelState>
-        <option name="moduleName" value="Unscramble.app.main" />
+        <option name="moduleName" value="AppTareas.app.main" />
+        <option name="type" value="RESOURCE" />
+        <option name="url" value="file://$PROJECT_DIR$/app/src/debug/google-services" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="AppTareas.app.main" />
         <option name="type" value="RESOURCE" />
         <option name="url" value="file://$PROJECT_DIR$/app/src/debug/res" />
       </SourceFolderModelState>
       <SourceFolderModelState>
-        <option name="moduleName" value="Unscramble.app.main" />
+        <option name="moduleName" value="AppTareas.app.main" />
         <option name="type" value="RESOURCE" />
         <option name="url" value="file://$PROJECT_DIR$/app/src/debug/resources" />
       </SourceFolderModelState>
       <SourceFolderModelState>
-        <option name="moduleName" value="Unscramble.app.unitTest" />
-        <option name="type" value="TEST_SOURCE" />
-        <option name="url" value="file://$PROJECT_DIR$/app/src/testDebug/java" />
+        <option name="moduleName" value="AppTareas.app.main" />
+        <option name="type" value="SOURCE" />
+        <option name="url" value="file://$PROJECT_DIR$/app/src/main/kotlin" />
       </SourceFolderModelState>
       <SourceFolderModelState>
-        <option name="moduleName" value="Unscramble.app.unitTest" />
-        <option name="type" value="TEST_SOURCE" />
-        <option name="url" value="file://$PROJECT_DIR$/app/src/testDebug/kotlin" />
+        <option name="moduleName" value="AppTareas.app.main" />
+        <option name="type" value="SOURCE" />
+        <option name="url" value="file://$PROJECT_DIR$/app/src/main/shaders" />
       </SourceFolderModelState>
       <SourceFolderModelState>
-        <option name="moduleName" value="Unscramble.app.unitTest" />
-        <option name="type" value="TEST_SOURCE" />
-        <option name="url" value="file://$PROJECT_DIR$/app/src/testDebug/shaders" />
+        <option name="moduleName" value="AppTareas.app.main" />
+        <option name="type" value="RESOURCE" />
+        <option name="url" value="file://$PROJECT_DIR$/app/src/main/assets" />
       </SourceFolderModelState>
       <SourceFolderModelState>
-        <option name="moduleName" value="Unscramble.app.unitTest" />
-        <option name="type" value="TEST_RESOURCE" />
-        <option name="url" value="file://$PROJECT_DIR$/app/src/testDebug/assets" />
+        <option name="moduleName" value="AppTareas.app.main" />
+        <option name="type" value="RESOURCE" />
+        <option name="url" value="file://$PROJECT_DIR$/app/src/main/baselineProfiles" />
       </SourceFolderModelState>
       <SourceFolderModelState>
-        <option name="moduleName" value="Unscramble.app.unitTest" />
-        <option name="type" value="TEST_RESOURCE" />
-        <option name="url" value="file://$PROJECT_DIR$/app/src/testDebug/baselineProfiles" />
+        <option name="moduleName" value="AppTareas.app.main" />
+        <option name="type" value="RESOURCE" />
+        <option name="url" value="file://$PROJECT_DIR$/app/src/main/google-services" />
       </SourceFolderModelState>
       <SourceFolderModelState>
-        <option name="moduleName" value="Unscramble.app.unitTest" />
-        <option name="type" value="TEST_RESOURCE" />
-        <option name="url" value="file://$PROJECT_DIR$/app/src/testDebug/res" />
+        <option name="moduleName" value="AppTareas.app.main" />
+        <option name="type" value="RESOURCE" />
+        <option name="url" value="file://$PROJECT_DIR$/app/src/main/resources" />
       </SourceFolderModelState>
       <SourceFolderModelState>
-        <option name="moduleName" value="Unscramble.app.unitTest" />
-        <option name="type" value="TEST_RESOURCE" />
-        <option name="url" value="file://$PROJECT_DIR$/app/src/testDebug/resources" />
-      </SourceFolderModelState>
-      <SourceFolderModelState>
-        <option name="moduleName" value="Unscramble.app.unitTest" />
+        <option name="moduleName" value="AppTareas.app.unitTest" />
         <option name="type" value="TEST_SOURCE" />
         <option name="url" value="file://$PROJECT_DIR$/app/src/test/kotlin" />
       </SourceFolderModelState>
       <SourceFolderModelState>
-        <option name="moduleName" value="Unscramble.app.unitTest" />
+        <option name="moduleName" value="AppTareas.app.unitTest" />
         <option name="type" value="TEST_SOURCE" />
         <option name="url" value="file://$PROJECT_DIR$/app/src/test/shaders" />
       </SourceFolderModelState>
       <SourceFolderModelState>
-        <option name="moduleName" value="Unscramble.app.unitTest" />
+        <option name="moduleName" value="AppTareas.app.unitTest" />
         <option name="type" value="TEST_RESOURCE" />
         <option name="url" value="file://$PROJECT_DIR$/app/src/test/assets" />
       </SourceFolderModelState>
       <SourceFolderModelState>
-        <option name="moduleName" value="Unscramble.app.unitTest" />
+        <option name="moduleName" value="AppTareas.app.unitTest" />
         <option name="type" value="TEST_RESOURCE" />
         <option name="url" value="file://$PROJECT_DIR$/app/src/test/baselineProfiles" />
       </SourceFolderModelState>
       <SourceFolderModelState>
-        <option name="moduleName" value="Unscramble.app.unitTest" />
+        <option name="moduleName" value="AppTareas.app.unitTest" />
+        <option name="type" value="TEST_RESOURCE" />
+        <option name="url" value="file://$PROJECT_DIR$/app/src/test/google-services" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="AppTareas.app.unitTest" />
         <option name="type" value="TEST_RESOURCE" />
         <option name="url" value="file://$PROJECT_DIR$/app/src/test/res" />
       </SourceFolderModelState>
       <SourceFolderModelState>
-        <option name="moduleName" value="Unscramble.app.unitTest" />
+        <option name="moduleName" value="AppTareas.app.unitTest" />
         <option name="type" value="TEST_RESOURCE" />
         <option name="url" value="file://$PROJECT_DIR$/app/src/test/resources" />
       </SourceFolderModelState>
       <SourceFolderModelState>
-        <option name="moduleName" value="Unscramble.app.androidTest" />
+        <option name="moduleName" value="AppTareas.app.unitTest" />
         <option name="type" value="TEST_SOURCE" />
-        <option name="url" value="file://$PROJECT_DIR$/app/src/androidTestDebug/java" />
+        <option name="url" value="file://$PROJECT_DIR$/app/src/testDebug/java" />
       </SourceFolderModelState>
       <SourceFolderModelState>
-        <option name="moduleName" value="Unscramble.app.androidTest" />
+        <option name="moduleName" value="AppTareas.app.unitTest" />
         <option name="type" value="TEST_SOURCE" />
-        <option name="url" value="file://$PROJECT_DIR$/app/src/androidTestDebug/kotlin" />
+        <option name="url" value="file://$PROJECT_DIR$/app/src/testDebug/kotlin" />
       </SourceFolderModelState>
       <SourceFolderModelState>
-        <option name="moduleName" value="Unscramble.app.androidTest" />
+        <option name="moduleName" value="AppTareas.app.unitTest" />
         <option name="type" value="TEST_SOURCE" />
-        <option name="url" value="file://$PROJECT_DIR$/app/src/androidTestDebug/shaders" />
+        <option name="url" value="file://$PROJECT_DIR$/app/src/testDebug/shaders" />
       </SourceFolderModelState>
       <SourceFolderModelState>
-        <option name="moduleName" value="Unscramble.app.androidTest" />
+        <option name="moduleName" value="AppTareas.app.unitTest" />
         <option name="type" value="TEST_RESOURCE" />
-        <option name="url" value="file://$PROJECT_DIR$/app/src/androidTestDebug/assets" />
+        <option name="url" value="file://$PROJECT_DIR$/app/src/testDebug/assets" />
       </SourceFolderModelState>
       <SourceFolderModelState>
-        <option name="moduleName" value="Unscramble.app.androidTest" />
+        <option name="moduleName" value="AppTareas.app.unitTest" />
         <option name="type" value="TEST_RESOURCE" />
-        <option name="url" value="file://$PROJECT_DIR$/app/src/androidTestDebug/baselineProfiles" />
+        <option name="url" value="file://$PROJECT_DIR$/app/src/testDebug/baselineProfiles" />
       </SourceFolderModelState>
       <SourceFolderModelState>
-        <option name="moduleName" value="Unscramble.app.androidTest" />
+        <option name="moduleName" value="AppTareas.app.unitTest" />
         <option name="type" value="TEST_RESOURCE" />
-        <option name="url" value="file://$PROJECT_DIR$/app/src/androidTestDebug/res" />
+        <option name="url" value="file://$PROJECT_DIR$/app/src/testDebug/google-services" />
       </SourceFolderModelState>
       <SourceFolderModelState>
-        <option name="moduleName" value="Unscramble.app.androidTest" />
+        <option name="moduleName" value="AppTareas.app.unitTest" />
         <option name="type" value="TEST_RESOURCE" />
-        <option name="url" value="file://$PROJECT_DIR$/app/src/androidTestDebug/resources" />
+        <option name="url" value="file://$PROJECT_DIR$/app/src/testDebug/res" />
       </SourceFolderModelState>
       <SourceFolderModelState>
-        <option name="moduleName" value="Unscramble.app.androidTest" />
-        <option name="type" value="TEST_SOURCE" />
-        <option name="url" value="file://$PROJECT_DIR$/app/src/androidTest/java" />
+        <option name="moduleName" value="AppTareas.app.unitTest" />
+        <option name="type" value="TEST_RESOURCE" />
+        <option name="url" value="file://$PROJECT_DIR$/app/src/testDebug/resources" />
       </SourceFolderModelState>
       <SourceFolderModelState>
-        <option name="moduleName" value="Unscramble.app.androidTest" />
+        <option name="moduleName" value="AppTareas.app.androidTest" />
         <option name="type" value="TEST_SOURCE" />
         <option name="url" value="file://$PROJECT_DIR$/app/src/androidTest/kotlin" />
       </SourceFolderModelState>
       <SourceFolderModelState>
-        <option name="moduleName" value="Unscramble.app.androidTest" />
+        <option name="moduleName" value="AppTareas.app.androidTest" />
         <option name="type" value="TEST_SOURCE" />
         <option name="url" value="file://$PROJECT_DIR$/app/src/androidTest/shaders" />
       </SourceFolderModelState>
       <SourceFolderModelState>
-        <option name="moduleName" value="Unscramble.app.androidTest" />
+        <option name="moduleName" value="AppTareas.app.androidTest" />
         <option name="type" value="TEST_RESOURCE" />
         <option name="url" value="file://$PROJECT_DIR$/app/src/androidTest/assets" />
       </SourceFolderModelState>
       <SourceFolderModelState>
-        <option name="moduleName" value="Unscramble.app.androidTest" />
+        <option name="moduleName" value="AppTareas.app.androidTest" />
         <option name="type" value="TEST_RESOURCE" />
         <option name="url" value="file://$PROJECT_DIR$/app/src/androidTest/baselineProfiles" />
       </SourceFolderModelState>
       <SourceFolderModelState>
-        <option name="moduleName" value="Unscramble.app.androidTest" />
+        <option name="moduleName" value="AppTareas.app.androidTest" />
+        <option name="type" value="TEST_RESOURCE" />
+        <option name="url" value="file://$PROJECT_DIR$/app/src/androidTest/google-services" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="AppTareas.app.androidTest" />
         <option name="type" value="TEST_RESOURCE" />
         <option name="url" value="file://$PROJECT_DIR$/app/src/androidTest/res" />
       </SourceFolderModelState>
       <SourceFolderModelState>
-        <option name="moduleName" value="Unscramble.app.androidTest" />
+        <option name="moduleName" value="AppTareas.app.androidTest" />
         <option name="type" value="TEST_RESOURCE" />
         <option name="url" value="file://$PROJECT_DIR$/app/src/androidTest/resources" />
       </SourceFolderModelState>
       <SourceFolderModelState>
+        <option name="moduleName" value="AppTareas.app.androidTest" />
+        <option name="type" value="TEST_SOURCE" />
+        <option name="url" value="file://$PROJECT_DIR$/app/src/androidTestDebug/java" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="AppTareas.app.androidTest" />
+        <option name="type" value="TEST_SOURCE" />
+        <option name="url" value="file://$PROJECT_DIR$/app/src/androidTestDebug/kotlin" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="AppTareas.app.androidTest" />
+        <option name="type" value="TEST_SOURCE" />
+        <option name="url" value="file://$PROJECT_DIR$/app/src/androidTestDebug/shaders" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="AppTareas.app.androidTest" />
+        <option name="type" value="TEST_RESOURCE" />
+        <option name="url" value="file://$PROJECT_DIR$/app/src/androidTestDebug/assets" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="AppTareas.app.androidTest" />
+        <option name="type" value="TEST_RESOURCE" />
+        <option name="url" value="file://$PROJECT_DIR$/app/src/androidTestDebug/baselineProfiles" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="AppTareas.app.androidTest" />
+        <option name="type" value="TEST_RESOURCE" />
+        <option name="url" value="file://$PROJECT_DIR$/app/src/androidTestDebug/google-services" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="AppTareas.app.androidTest" />
+        <option name="type" value="TEST_RESOURCE" />
+        <option name="url" value="file://$PROJECT_DIR$/app/src/androidTestDebug/res" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="AppTareas.app.androidTest" />
+        <option name="type" value="TEST_RESOURCE" />
+        <option name="url" value="file://$PROJECT_DIR$/app/src/androidTestDebug/resources" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
         <option name="generated" value="true" />
-        <option name="moduleName" value="Unscramble.app.main" />
+        <option name="moduleName" value="AppTareas.app.main" />
         <option name="type" value="SOURCE" />
         <option name="url" value="file://$PROJECT_DIR$/app/build/generated/ap_generated_sources/debug/out" />
       </SourceFolderModelState>
       <SourceFolderModelState>
         <option name="generated" value="true" />
-        <option name="moduleName" value="Unscramble.app.unitTest" />
+        <option name="moduleName" value="AppTareas.app.unitTest" />
         <option name="type" value="TEST_SOURCE" />
         <option name="url" value="file://$PROJECT_DIR$/app/build/generated/ap_generated_sources/debugUnitTest/out" />
       </SourceFolderModelState>
       <SourceFolderModelState>
         <option name="generated" value="true" />
-        <option name="moduleName" value="Unscramble.app.androidTest" />
+        <option name="moduleName" value="AppTareas.app.androidTest" />
         <option name="type" value="TEST_SOURCE" />
         <option name="url" value="file://$PROJECT_DIR$/app/build/generated/ap_generated_sources/debugAndroidTest/out" />
       </SourceFolderModelState>
       <SourceFolderModelState>
         <option name="generated" value="true" />
-        <option name="moduleName" value="Unscramble.app.main" />
-        <option name="type" value="RESOURCE" />
-        <option name="url" value="file://$PROJECT_DIR$/app/build/generated/res/resValues/debug" />
-      </SourceFolderModelState>
-      <SourceFolderModelState>
-        <option name="generated" value="true" />
-        <option name="moduleName" value="Unscramble.app.androidTest" />
+        <option name="moduleName" value="AppTareas.app.androidTest" />
         <option name="type" value="TEST_RESOURCE" />
         <option name="url" value="file://$PROJECT_DIR$/app/build/generated/res/resValues/androidTest/debug" />
       </SourceFolderModelState>
